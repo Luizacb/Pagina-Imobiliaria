@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+
+div{
+    padding: 30px 0;
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+}
+
+.navbar_imobiliaria{
+    background-color: #afddfb;
+
+}
+
+.navbar_imobiliaria_img{
+    width: 150px;
+}
+
+.navbar_imobiliaria_paragrafo{
+    margin-top:15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.navbar_imobiliaria_a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+span{
+    font-weight: bold;
+}
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 	5px;
+}
+
+.estilo_subtitulo{
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight:normal;
+}
+.sobre_img{
+    width: 450px;
+}
+
+.sobre span{
+    color: #1d80c1;
+    
+}
+
+.servicos, .contato{
+    background-color: #1d80c1;
+
+}
+
+.subtitulos{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: center;
+    width: 700px;
+}
+
+.servicos span, .contato span{
+    color: #fff81b;
+}
+
+.servicos ul{
+    margin: 40px auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.corretores span{
+    color: #1d80c1;
+}
+.corretores_img{
+    width: 450px;
+    text-align: center;
+}
+
+.corretores .estilo_subtitulo{
+    font-size: 28px;
+    line-height: 42px;
+    font-weight:bold;
+}
+
+.contato p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.contato ul{
+    margin: 40px auto;
+    width: 210px;
+    list-style: none;
+
+}
+
+.contato li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.contato a{
+    color: #1d80c1;
+    background-color: #ffffff;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+iframe{
+    width:600px;
+    height: 300px;
+}
